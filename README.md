@@ -15,5 +15,8 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 
 # Buy me a coffee to keep me awake
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/panemu)
+<a href='https://ko-fi.com/M4M31353RT' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/M4M31353RT' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+![qr-kofi-panemu](https://github.com/user-attachments/assets/58e49eb7-702e-4869-8c5c-4306394ec035)
 
