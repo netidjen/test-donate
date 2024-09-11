@@ -18,8 +18,7 @@ Ngx-Panemu-Table:
 
 https://ko-fi.com/s/60c660f1f0
 
-https://ko-fi.com/summary/5152114b-df40-408e-b03d-f386f5b0476e
-
+https://ko-fi.com/summary/97bcb536-443f-4d3e-bac7-981d09d9e02b
 
 Tiwul-FX:
 
