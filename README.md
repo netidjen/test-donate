@@ -28,6 +28,3 @@ https://ko-fi.com/summary/97bcb536-443f-4d3e-bac7-981d09d9e02b
 
 ![qr-kofi-panemu](https://github.com/user-attachments/assets/58e49eb7-702e-4869-8c5c-4306394ec035)
 
-## Iframe ##
-
-<iframe id='kofiframe' src='https://ko-fi.com/panemu/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='panemu'></iframe>
